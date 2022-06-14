@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /afiya/Dockerfile
+      worker: /AFIYA/Dockerfile
 run:
    worker: npm start
