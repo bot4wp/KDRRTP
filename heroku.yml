@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /Jinu/Dockerfile
+      worker: /afiya/Dockerfile
 run:
    worker: npm start
